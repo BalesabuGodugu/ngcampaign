@@ -1,3 +1,5 @@
+I'm Ramya --> my part of the project is the cards
+
 # Myprojectng
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
